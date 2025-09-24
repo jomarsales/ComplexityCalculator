@@ -1,7 +1,7 @@
 # Complexity Calculator
 
 ## Descrição
-**ComplexityCalculator** é um projeto bem simples em **C# e WPF** que permite analisar a complexidade de algoritmos em código C#.  
+**Complexity Calculator** é um projeto bem simples em **C# e WPF** que permite analisar a complexidade de algoritmos em código C#.  
 O usuário pode colar ou digitar o código diretamente em um **TextBox**, e o sistema calcula uma estimativa da complexidade em notação **Big O**, levando em consideração:
 
 - Profundidade de loops (`for`, `while`, `foreach`)
