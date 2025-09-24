@@ -1,4 +1,4 @@
-# ComplexityCalculator
+# Complexity Calculator
 
 ## Descrição
 **ComplexityCalculator** é um projeto bem simples em **C# e WPF** que permite analisar a complexidade de algoritmos em código C#.  
